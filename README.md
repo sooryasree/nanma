@@ -8,3 +8,16 @@ website is intended for public, volunteers and owners of the NGO. It will manage
 entire database online about the people connected to NGO and who are being helped by
 it. 
 
+# Software Requirements
+•	Front End : WAMP
+
+•	Language : PHP
+
+•	Back End : PHP MyAdmin
+
+•	Operation System : Windows XP or above
+
+•	Browser : Any latest browser
+
+# How to run
+Clone or download the files from https://github.com/sooryasree/nanma. Use web server or a local server to host the app. Attach the 'index.php' file as default. Thats all you need to get started.
